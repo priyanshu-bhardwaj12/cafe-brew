@@ -155,7 +155,7 @@ This project is created for educational and portfolio purposes.
 
 ## 👨‍💻 Developer
 
-Created as a demonstration of professional web development skills for local business solutions.
+This project was developed by **Priyanshu Bhardwaj** as part of an internship to showcase frontend web development skills, including responsive design, version control, and deployment practices.
 
 ---
 
