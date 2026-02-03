@@ -1,0 +1,19 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore log files
+*.log
+
+# Ignore node modules if added later
+node_modules/
+package-lock.json
+
+# Ignore build files if added later
+dist/
+build/
